@@ -1,5 +1,5 @@
 
-# Fancy Login Sparkle Form
+# Login Sparkle Form
 
 A beautiful, modern login form built with React and TypeScript, featuring glassmorphism effects, animated particles, and sparkle animations.
 
@@ -29,7 +29,7 @@ Follow these steps to run the project locally:
 git clone <YOUR_GIT_URL>
 
 # Step 2: Navigate to the project directory
-cd fancy-login-sparkle-form
+cd SparkleLoginForm
 
 # Step 3: Install the necessary dependencies
 npm install
